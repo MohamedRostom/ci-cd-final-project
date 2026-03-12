@@ -1,14 +1,6 @@
-# CI/CD Tools and Practices Final Project Template
+# CI/CD Final Project
 
-This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
-
-## Usage
-
-This repository is to be used as a template to create your own repository in your own GitHub account. No need to Fork it as it has been set up as a Template. This will avoid confusion when making Pull Requests in the future.
-
-From the GitHub **Code** page, press the green **Use this template** button to create your own repository from this template.
-
-Name your repo: `ci-cd-final-project`.
+This repository contains the Final Project for the Coursera course **CI/CD Tools and Practices**.
 
 ## Setup
 
@@ -26,6 +18,13 @@ exit
 
 ## Tasks
 
+1. Create basic workflow
+2. Add the linting step to CI workflow
+3. Add the test step to CI workflow
+4. Validate GitHub Actions Workflow
+5. Create cleanup Tekton  task
+6. Create test Tekton task
+7. Create OpenShift pipeline
 
 ## License
 
